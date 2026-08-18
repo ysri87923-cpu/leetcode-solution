@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
