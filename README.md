@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0022-generate-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
