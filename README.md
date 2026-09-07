@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/ysri87923-cpu/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
 |  |
 | ------- |
